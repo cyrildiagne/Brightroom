@@ -3,10 +3,10 @@ Pod::Spec.new do |s|
   s.version = "2.5.0"
   s.summary = "A component-oriented image editor on top of CoreImage."
 
-  s.homepage = "https://github.com/muukii/Brightroom"
+  s.homepage = "https://github.com/cyrildiagne/Brightroom"
   s.license = "MIT"
   s.author = "muukii"
-  s.source = { :git => "https://github.com/muukii/Brightroom.git", :tag => s.version }
+  s.source = { :git => "https://github.com/cyrildiagne/Brightroom.git", :tag => s.version }
 
   s.swift_version = "5.3"
   s.module_name = s.name
